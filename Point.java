@@ -12,7 +12,6 @@ public class Point{
         dst = Math.pow(y_diff, 2) + Math.pow(x_diff, 2);
         dst = Math.sqrt(dst);
         return dst;
-         
     }
 
     public static void main(String[] args){
