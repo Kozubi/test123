@@ -31,7 +31,6 @@ public class Point{
         System.out.println("       \\");
         System.out.println("        \\");
         System.out.println("      Punkt2");
-  
     }
 
 }
