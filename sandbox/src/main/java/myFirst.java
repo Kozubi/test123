@@ -6,6 +6,7 @@ public class myFirst {
         System.out.println("Hello world java start");
         System.out.println("Seima");
         
+        System.out.println("Seima");
 
     }
 }
